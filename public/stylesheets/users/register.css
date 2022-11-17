@@ -1,0 +1,16 @@
+.front-errors {
+    border: 1px solid red;
+}
+
+.front-goods {
+    border: 1px solid green;
+}
+
+.dissappear-errors {
+    color: red;
+    animation: fadeOut 7s;
+}
+
+@keyframes fadeOut {
+    
+}

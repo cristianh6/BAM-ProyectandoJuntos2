@@ -1,0 +1,25 @@
+:root {
+  /*PALETA 1 */
+  --crema: #ffcdb2;
+  --naranja: #ffb4a2;
+  --rojo: #e5989b;
+  --bordo: #b5838d;
+  --negro: #6d6875;
+  --gris: #f5f4f2;
+  --nieve: #f5f3f4;
+  --azulOscuro: #003049;
+
+  /*PALETA 2 */
+  --azul2: #0d0f45;
+  --rojo2: #91100d;
+  --amarillo2: #74653e;
+  --gris2: #f6fafd;
+
+  /*PALETA 3 */
+  --azul3: #0D0F45;
+  --rojo3: #91100D;
+  --grisCrema3: #B7AD99;
+  --crema3: #FFFFF3;
+  --petroleo3: rgb(79, 109, 122);
+  --amarillo3: #fbd984;
+}

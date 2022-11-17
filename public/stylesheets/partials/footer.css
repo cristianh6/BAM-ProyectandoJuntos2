@@ -1,0 +1,20 @@
+#main-footer {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-image: linear-gradient(
+    var(--grisCrema3),
+    var(--petroleo3),
+    var(--amarillo3)
+  );
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#main-footer span, #main-footer p, #main-footer a{
+    color: white;
+}
+
+#main-footer i {
+    color: white;
+}
