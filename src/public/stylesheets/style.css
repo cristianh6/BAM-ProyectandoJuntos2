@@ -1,0 +1,18 @@
+/* GLOBAL */
+@import url(./normalize.css);
+@import url(./general.css);
+@import url(./variables.css);
+@import url(./main.css);
+
+
+/* PARTIALS */
+@import url(./partials/header.css);
+@import url(./partials/footer.css);
+
+
+/* COMPONENTS */
+@import url(./components/carrousel.css);
+
+/* USERS */
+@import url(./users/register.css);
+@import url(./users/login.css);

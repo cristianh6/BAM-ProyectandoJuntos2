@@ -1,0 +1,20 @@
+[
+   {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "correo": "juan@mail.com"
+   },
+   {
+      "id": 2,
+      "nombre": "Roberto",
+      "apellido": "Bolaños",
+      "correo": "Roberto@mail.com"
+   },
+   {
+      "id": 3,
+      "nombre": "Cristian",
+      "apellido": "Casalaspro",
+      "correo": "cristian.casalaspro@gmail.com"
+   }
+]
